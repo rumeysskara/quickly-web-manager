@@ -11,6 +11,8 @@ Language : TR for now.
 
 For Firefox, all links are always opened within the Quickly, directly. To open a link in your main browser, right-click anywhere, select 'Copy link location' and paste the link in your main browser.
 
+Chromium and Chrome open external links in the main browser.
+
 # How can I run keyboard Shortcuts?
 
 Ctrl+N - Add

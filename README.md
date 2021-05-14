@@ -2,6 +2,7 @@
 
 Linux Quickly Web Manager tool
 
+Pardus (Debian) ;
 https://www.youtube.com/watch?v=BMgmNQWZZn4&t=2s
 
 Language : TR for now.

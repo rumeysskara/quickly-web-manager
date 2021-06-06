@@ -1,5 +1,0 @@
-#!/bin/bash
-sudo rm -rf /usr/lib/web-manager
-sudo rm -rf /usr/share/web-manager
-sudo cp -R usr /
-web-manager
